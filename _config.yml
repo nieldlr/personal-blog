@@ -17,11 +17,11 @@ title: Niel de la Rouviere
 email: niel@delarouviere.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal blog to share some thoughts
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
 url: "http://nieldlr.com" # the base hostname & protocol for your site
 twitter_username: nieldlr
 github_username:  nieldlr
-permalink: /personal-blog/:year/:month/:title.html
+permalink: /:year/:month/:title.html
 
 # Build settings
 markdown: kramdown
